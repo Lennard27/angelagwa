@@ -23,7 +23,7 @@ h1 {
 .input-label:last-child {
     display: inline-block;
     width: 100px;
-    color: #333333;
+color: #fcf6f6;
 }
 .input-field {
     width: calc(100% - 100px);
